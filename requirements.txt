@@ -37,7 +37,7 @@ MarkupSafe
 matplotlib
 matplotlib-inline
 mdurl
-mediapipe
+mediapipe==0.10.13
 nest-asyncio
 numpy
 opencv-contrib-python
